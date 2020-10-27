@@ -1,4 +1,12 @@
-[![Watch the video](https://github.com/qiisziilbash/US-Covid-Animated-Over-Time/blob/master/data/output.gif)](https://www.youtube.com/watch?v=dkWlypeWqt8&ab_channel=KnowledgeCrawler)
+
+
+<p align="center">
+    <a href='https://www.youtube.com/watch?v=dkWlypeWqt8&ab_channel=KnowledgeCrawler'>
+          <img width="460" height="300" src="https://github.com/qiisziilbash/US-Covid-Animated-Over-Time/blob/master/data/output.gif">
+    </a>
+
+</p>
+
 - Command for making video of the images (10 image per second; 30 fps)
     - ```$ ffmpeg -framerate 10 -pattern_type glob -i '*.png' -c:v libx264 -r 30 -pix_fmt yuv420p out.mp4```
 - command for batch image annotation:
