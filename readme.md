@@ -1,12 +1,12 @@
-# Covid Cases in the US over time
 
+<h1 align="center">Covid Cases in the US over time</h1>
 <br>
 <p align="center">
     <a href='https://www.youtube.com/watch?v=dkWlypeWqt8&ab_channel=KnowledgeCrawler'>
           <img width="460" height="300" src="https://github.com/qiisziilbash/US-Covid-Animated-Over-Time/blob/master/data/output.gif">
     </a>
     <br>
-    Click on the picture to see the full animation
+    <b>Click on the picture to see the full animation</b>
 </p>
 
 
