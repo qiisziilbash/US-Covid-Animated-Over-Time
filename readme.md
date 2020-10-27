@@ -6,7 +6,7 @@
           <img width="460" height="300" src="https://github.com/qiisziilbash/US-Covid-Animated-Over-Time/blob/master/data/output.gif">
     </a>
     <br>
-    <b>Click on the picture to see the full animation</b>
+    <b>Click on the picture to see the full animation on Youtube</b>
 </p>
 
 <br>
