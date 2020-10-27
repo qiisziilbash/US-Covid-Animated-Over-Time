@@ -92,7 +92,7 @@ def plot_a_day(covid, counties, date, show, save):
         if not os.path.exists('images'):
             os.mkdir('images')
 
-        fig.write_image('images/fig_' + date + '.png')
+        fig.write_image('images/' + date + '.png')
 
 
 def reduce_data_columns(data, dates, columns):
