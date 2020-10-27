@@ -9,6 +9,9 @@
     <b>Click on the picture to see the full animation</b>
 </p>
 
+<br>
+<br>
+<br>
 
 ### Some commands used for making the animation
 - Command for making video of the images (10 image per second; 30 fps)
