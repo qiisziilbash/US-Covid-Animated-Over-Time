@@ -3,7 +3,7 @@ from utils.data_reader import *
 
 if __name__ == "__main__":
     counties_file_address = 'data/counties.json'
-    covid_file_address = 'data/covid_confirmed_usafacts.csv'
+    covid_file_address = 'data/covid_deaths_usafacts.csv'
 
     covid_data, counties_data = read_data(covid_file_address, counties_file_address)
 
